@@ -1,5 +1,6 @@
 ### Hi, nice to meet you 👋
 <p>Welcome to my github profile</p>
+<p>I am a web programming lecturer at STMIK Kaputama located in Binjai, North Sumatra - Indonesia</p>
 
 ## 📉 **My Github Statistics**
 

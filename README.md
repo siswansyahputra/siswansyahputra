@@ -18,6 +18,11 @@
 </ul>
 <hr />
 <h4>Modul Web Programming</h4>
+<ul>
+  <li><a href="https://drive.google.com/file/d/1l0JnTGUR-Ko6I_VAGWh2VvZJIuXjb44A/view?usp=sharing">Pemrograman Web - Part 1</a></li>
+  <li><a href="https://drive.google.com/file/d/1yuT4duSrmCd16mm4-WsyhsxchKEZRDHr/view?usp=sharing">Pemrograman Web - Part 2</a></li>
+  <li><a href="https://drive.google.com/file/d/1ABinJSDPG8Jw9dCqmOT5bWzQqgC2paq0/view?usp=sharing">Pemrograman Web - Part 3</a></li>
+</ul>
 <hr />
 ## 📉 **My Github Statistics**
 

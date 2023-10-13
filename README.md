@@ -1,7 +1,8 @@
 ### Hi, nice to meet you 👋
+<hr />
 <p>Welcome to my github profile</p>
 <p>I am a web programming lecturer at <b><a href="http://kaputama.ac.id/">STMIK KAPUTAMA</a></b> located in <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/> Binjai, North Sumatra - Indonesia</p>
-
+<hr />
 ## 📉 **My Github Statistics**
 
 ![Siswan's GitHub stats](https://github-readme-stats.vercel.app/api?username=siswansyahputra&hide=contribs,prs)

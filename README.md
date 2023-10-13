@@ -1,6 +1,6 @@
 ### Hi, nice to meet you 👋
 <hr />
-<p>Welcome to <b>my github profile</b></p>
+<p>Welcome to <b>My Github Profile !</b></p>
 <p>I am a web programming lecturer at <b><a href="http://kaputama.ac.id/">STMIK KAPUTAMA</a></b> located in <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/> Binjai, North Sumatra - Indonesia</p>
 <hr />
 <h4>Modul Web Desain</h4>
